@@ -1,17 +1,17 @@
 <footer class="footer-area">
 	<div class="container">
 		<div class="row">
-		<!-- Footer Widget Area -->
-		<div class="col-12 col-lg-5">
-			<div class="footer-widget-area mt-50">
-				<a href="index.php" class="d-block mb-5"><img src="img/core-img/krushnairesortlogo2.png" alt=""></a>
-				<p>Nestled in unspoiled surroundings amidst the magnificent landscape of the Western Ghats -Imperial Grande, Lonavala offers a lavish retreat just 100 kilo meters from Mumbai & 60 kilometres from Pune .</p>
+			<!-- Footer Widget Area -->
+			<div class="col-12 col-lg-5">
+				<div class="footer-widget-area mt-50">
+					<a href="index.php" class="other_hotels d-block mb-5"><img src="img/core-img/krushnairesortlogo2.png" alt=""></a>
+					<p>Nestled in unspoiled surroundings amidst the magnificent landscape of the Western Ghats -Imperial Grande, Lonavala offers a lavish retreat just 100 kilo meters from Mumbai & 60 kilometres from Pune .</p>
 
+				</div>
 			</div>
-		</div>
 
 			<!-- Footer Widget Area -->
-			<div class="col-12 col-md-6 col-lg-4">
+			<div class="quick_link col-12 col-md-6 col-lg-4" style="">
 				<div class="footer-widget-area mt-50">
 					<h6 class="widget-title mb-5"> Quick Links</h6>
 					<ul class="quick-links">
@@ -28,9 +28,9 @@
 			</div>
 
 			<!-- Footer Widget Area -->
-			<div class="col-12 col-md-6 col-lg-3">
+			<div class=" col-12 col-md-6 col-lg-3">
 				<div class="footer-widget-area mt-50">
-					<h6 class="widget-title mb-5">Our Other Hotels</h6>
+					<h6 class="other_hotels widget-title mb-5">Our Other Hotels</h6>
 					<ul class="quick-links">
 						<li><a href="http://imperialgrande.com">Imperial Grande</a></li>
 						<li><a href="http://themetropole.in">Metropole Resort</a></li>

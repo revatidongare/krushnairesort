@@ -22,7 +22,7 @@
   </section>
 
 
-        <section class="light_section" style="padding-top: 2rem;">
+        <section class="light_section" style="padding-top: 1rem;">
           <div class="container">
             <div class="row">
               <div class="col-md-2 text-left"></div>
@@ -35,7 +35,7 @@
                   <p><br>
                     We are happy to answer your questions or give you directions via phone.
                     <br>
-                   <b> 083800 96375 <br> 8380004198</b>
+                   <b> 083800 96375 / 8380004198</b>
                   </p>
                 </div>
               </div>
@@ -45,7 +45,7 @@
                   <!-- <i class="icon icon-Keyboard"></i> -->
                   <h4>E-mail</h4>
                   <p><br>
-                    If you are on the go and still want to ask a question, simply drop us an <br>e-mail: <br>
+                    If you are on the go and still want to ask a question, simply drop us an e-mail. <br>
                     <b>krushnairesort@gmail.com</b>
                   </p>
                 </div>
@@ -56,7 +56,7 @@
             <div class="row mt-3">
               <div class="col-md-12 col-md-offset-2 text-center margin_top margin_bottom_half">
                 <div class="text_block">
-                  <b><h3 style="padding-top: 2rem; font-family: Playfair Display;">KRUSHNAI RESORT LOCATION</h3></b>
+                  <b><h3 style="padding-top: 1.5rem; font-family: Playfair Display;">KRUSHNAI RESORT LOCATION</h3></b>
                   <p class="text-center" style="padding-bottom: 1rem;">Krushnai Resort is located in the heart of Lonavala. Come visit us and enjoy the beautiful nature of Lonavala and make your family or buisness time a once in a lifetime moment.<br>
                   <a href="https://www.google.com/maps/place/Imperial+Grande/@18.7599648,73.4030509,17z/data=!3m1!4b1!4m5!3m4!1s0x3be8011b5a2a5507:0x493fd47fce927290!8m2!3d18.7599597!4d73.4052396" class="btn btn-link">GET DIRECTIONS</a></p>
                 </div>
@@ -99,28 +99,10 @@
               </center>
           </div>
         </section>
-        <!-- <section style="background-image: url('assets/images/newsletter-banner-1.jpg')" class="dark_section background_cover transparent_film">
-          <div class="container">
-            <div class="row">
-              <div class="col-md-12 text-center">
-                <div class="section_header minimal">
-                  <h1>NEWSLETTER</h1>
-                  <p>Subscribe to our newsletter and get free (and early) access to our news, our stories and   Xenia Resort exclusive offers. </p>
-                </div>
-              </div>
-              <div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-12">
-                <div class="widget widget_newsletter no_padding text-center">
-                  <form>
-                    <input type="email" placeholder="YOU'R E-MAIL ADDRESS" class="expanded form-control">
-                    <button type="submit" class="btn btn-primary filled small_screen_block">GO</button>
-                  </form>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section> -->
+      
       </div>
-  <!-- ##### Footer Area Start ##### -->
+      <br>
+  <br>  <!-- ##### Footer Area Start ##### -->
   <?php include 'inc/footer.php'; ?>
   <!-- ##### Footer Area End ##### -->
 
