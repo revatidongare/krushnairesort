@@ -23,7 +23,7 @@
 
   <section class="contact-area d-flex flex-wrap align-items-center container section-padding-100">
     <div class="home-map-area" style="border:thick;">
-      <img src="img/krushnai/barcode.png"class="" >
+      <img src="img/barcode.png" style="height: 22rem;width: 21.5rem;margin-top: 2rem;" alt="QRcode" >
     </div>
     <!-- Payment Info -->
     <div class="contact-info section-padding-100">

@@ -46,7 +46,7 @@
 
 								<li class="<?php if($linum == 5){echo "active";} ?>"><a href="contact.php">Contact</a></li>
 								<li class="<?php if($linum == 6){echo "active";} ?>"><a href="payments.php">Pay Online</a></li>
-								<li class="<?php if($linum == 7){echo "active";} ?>" style="background:rgb(181,138,96)"> <a  href="http://www.xmitter.com:4430/OnlineBooking/availability?propertyId=8a225b2645b465660145b64b22c60020" class="btn palatin-btn" style="padding-top: 9px;     margin-bottom: -7px; margin-top: -6px;">Make a Reservation</a></li>
+								<li class="<?php if($linum == 7){echo "active";} ?>" style="background:rgb(181,138,96)"> <a  href="http://www.xmitter.com:4430/OnlineBooking/availability?propertyId=8a225b2645b465660145b64b22c60020" >Make a Reservation</a></li>
 								    
 							<!-- <div class="menu-btn" style="padding-left:20px!important;">-->
 								    
