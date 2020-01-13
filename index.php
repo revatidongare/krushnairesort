@@ -19,15 +19,15 @@
 			<!-- Single Hero Slide -->
 			<div class="single-hero-slide d-flex align-items-center justify-content-center">
 				<!-- Slide Img -->
-				<div class="slide-img bg-img" style="background-image: url(img/krushnai/kbanner3.jpg);"></div>
+				<div class="slide-img bg-img" style="background-image: url(img/krushnai/kbanner3.jpg); "></div>
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-12 col-lg-9">
 							<!-- Slide Content -->
-							<div class="hero-slides-content" data-animation="fadeInUp" data-delay="100ms">
+							<div class="hero-slides-content" id="hiden" data-animation="fadeInUp" data-delay="3s">
 								<!-- <div class="line" data-animation="fadeInUp" data-delay="300ms"></div> -->
-								<p style="font-size:20px;" data-animation="fadeInUp" data-delay="700ms">Ideal place for leisure, corporate groups and destination weddings.</p>
-								<h2 data-animation="fadeInUp" data-delay="500ms">Krushnai, a grand dip into luxury</h2>
+								<p style="font-size:20px; " data-animation="fadeInUp" data-delay="3.4s">Ideal place for leisure, corporate groups and destination weddings.</p>
+								<h2 data-animation="fadeInUp" data-delay="3.5s">Krushnai, a grand dip into luxury</h2>
 								<!-- <a href="rooms.php" class="btn palatin-btn mt-50" data-animation="fadeInUp" data-delay="900ms">View Rooms</a> -->
 							</div>
 						</div>
@@ -41,10 +41,10 @@
 					<div class="row justify-content-center">
 						<div class="col-12 col-lg-9">
 							<!-- Slide Content -->
-							<center><div class="hero-slides-content" data-animation="fadeInUp" data-delay="100ms">
+							<center><div class="hero-slides-content" data-animation="fadeInUp" data-delay="3s">
 								<!-- <div class="line" data-animation="fadeInUp" data-delay="300ms"></div> -->
-								<p style="font-size:20px;" data-animation="fadeInUp" data-delay="700ms">Health and wellness in the Western Ghats.</p>
-								<h2 data-animation="fadeInUp" data-delay="500ms">Krushnai Resort</h2>
+								<p style="font-size:20px;" data-animation="fadeInUp" data-delay="3.4s">Health and wellness in the Western Ghats.</p>
+								<h2 data-animation="fadeInUp" data-delay="3.5s">Krushnai Resort</h2>
 								<!-- <a href="rooms.php" class="btn palatin-btn mt-50" data-animation="fadeInUp" data-delay="900ms">View Rooms</a> -->
 							</div>
 						</center>
@@ -60,10 +60,10 @@
 					<div class="row justify-content-center">
 						<div class="col-12 col-lg-9">
 							<!-- Slide Content -->
-							<div class="hero-slides-content" data-animation="fadeInUp" data-delay="100ms">
+							<div class="hero-slides-content" data-animation="fadeInUp" data-delay="3s">
 								<!-- <div class="line" data-animation="fadeInUp" data-delay="300ms"></div> -->
-								<p style="font-size:20px;" data-animation="fadeInUp" data-delay="700ms">We design events to create opportunities that create interactions.</p>
-								<h2 data-animation="fadeInUp" data-delay="500ms">Meetings at our hub</h2>
+								<p style="font-size:20px;" data-animation="fadeInUp" data-delay="3.4s">We design events to create opportunities that create interactions.</p>
+								<h2 data-animation="fadeInUp" data-delay="3.5s">Meetings at our hub</h2>
 								<!-- <a href="rooms.php" class="btn palatin-btn mt-50" data-animation="fadeInUp" data-delay="900ms">View Rooms</a> -->
 							</div>
 						</div>
@@ -78,10 +78,10 @@
 					<div class="row justify-content-center">
 						<div class="col-12 col-lg-9">
 							<!-- Slide Content -->
-							<div class="hero-slides-content" data-animation="fadeInUp" data-delay="100ms">
+							<div class="hero-slides-content" data-animation="fadeInUp" data-delay="3s">
 								<!-- <div class="line" data-animation="fadeInUp" data-delay="300ms"></div> -->
-								<p style="font-size:20px;" data-animation="fadeInUp" data-delay="700ms">Manage your meeting with us</p>
-								<h2 data-animation="fadeInUp" data-delay="500ms">Conference Meetings</h2>
+								<p style="font-size:20px;" data-animation="fadeInUp" data-delay="3.4s">Manage your meeting with us</p>
+								<h2 data-animation="fadeInUp" data-delay="3.5s">Conference Meetings</h2>
 								<!-- <a href="Corporate-event.php" class="btn palatin-btn mt-50" data-animation="fadeInUp" data-delay="900ms">View Halls</a> -->
 							</div>
 						</div>
@@ -478,6 +478,8 @@ Royal Honeymoon Suite.</p>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
 	<script>
 		baguetteBox.run('.tz-gallery');
+
+		setTimeOut("$('#hiden').hide();",1000);
 
 	</script>
 	<?php include 'inc/script.php'; ?>

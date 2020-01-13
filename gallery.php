@@ -45,45 +45,36 @@
 							<div class="row">
 								<div class="col-sm-6 col-md-4">
 									<a class="lightbox" href="img/krushnai/gallery/gallery2.jpg">
-										<img src="img/krushnai/gallery/gallery2.jpg" alt="Park">
+										<img src="img/krushnai/gallery/r11.JPG" alt="Park">
 									</a>
 								</div>
 								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/g2.jpg">
-										<img src="img/krushnai/gallery/g2.jpg" alt="Park">
+									<a class="lightbox" href="img/krushnai/gallery/g9.jpg">
+										<img src="img/krushnai/gallery/g9.JPG" alt="Park">
 									</a>
 								</div>
 								
 								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/g9.jpg">
-										<img src="img/krushnai/gallery/g9.jpg" alt="Park">
+									<a class="lightbox" href="img/krushnai/gallery/r8.jpg">
+										<img src="img/krushnai/gallery/r8.JPG" alt="Park">
 									</a>
 								</div>
 								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/gallery4.jpg">
-										<img src="img/krushnai/gallery/gallery4.jpg" alt="Park">
+									<a class="lightbox" href="img/krushnai/gallery/g21.JPG">
+										<img src="img/krushnai/gallery/g21.JPG" alt="Park">
 									</a>
 								</div>
 								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/gallery10.jpg">
-										<img src="img/krushnai/gallery/gallery10.jpg" alt="Park">
+									<a class="lightbox" href="img/krushnai/gallery/g22.JPG">
+										<img src="img/krushnai/gallery/g22.JPG" alt="Park">
 									</a>
 								</div>
 								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/g6.jpg">
-										<img src="img/krushnai/gallery/g6.jpg" alt="Park">
+									<a class="lightbox" href="img/krushnai/gallery/g25.JPG">
+										<img src="img/krushnai/gallery/g25.JPG" alt="Park">
 									</a>
 								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/gallery7.jpg">
-										<img src="img/krushnai/gallery/gallery7.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/g4.jpg">
-										<img src="img/krushnai/gallery/g4.jpg" alt="Park">
-									</a>
-								</div>
+								
 								
 							</div>
 						</div>
@@ -105,46 +96,29 @@
 									</a>
 								</div>
 								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/room10.jpg">
-										<img src="img/krushnai/gallery/roomg.jpg" alt="Traffic">
-									</a>
-								</div>
-								<!-- <div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/g7.jpg">
-										<img src="img/krushnai/gallery/g7.jpg" alt="Bridge">
-									</a>
-								</div> -->
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/g10.jpg">
-										<img src="img/krushnai/gallery/g10.jpg" alt="Bridge">
-									</a>
-								</div>
-								<!-- <div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/g9.jpg">
-										<img src="img/krushnai/gallery/g9.jpg" alt="Bridge">
-									</a>
-								</div> -->
-								<!-- <div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/g10.jpg">
-										<img src="img/krushnai/gallery/g10.jpg" alt="Bridge">
-									</a>
-								</div> -->
-								
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/room11.jpg">
-										<img src="img/krushnai/gallery/room11.jpg" alt="Traffic">
-									</a>
-								</div>
-								<!-- <div class="col-sm-6 col-md-4">
 									<a class="lightbox" href="img/krushnai/gallery/roomg.jpg">
 										<img src="img/krushnai/gallery/roomg.jpg" alt="Traffic">
 									</a>
-								</div> -->
-								<!-- <div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/g19.jpg">
-										<img src="img/krushnai/gallery/g19.jpg" alt="Traffic">
+								</div>
+								
+								<div class="col-sm-6 col-md-4">
+									<a class="lightbox" href="img/krushnai/gallery/room11.jpg">
+										<img src="img/krushnai/gallery/room11.jpg" alt="Bridge">
 									</a>
-								</div> -->
+								</div>
+								
+								
+								<div class="col-sm-6 col-md-4">
+									<a class="lightbox" href="img/krushnai/gallery/c1.jpg">
+										<img src="img/krushnai/gallery/c1.jpg" alt="Traffic">
+									</a>
+								</div>
+								<div class="col-sm-6 col-md-4">
+									<a class="lightbox" href="img/krushnai/gallery/room10.jpg">
+										<img src="img/krushnai/gallery/room10.jpg" alt="Traffic">
+									</a>
+								</div>
+								
 							</div>
 						</div>
 					</div>
@@ -156,116 +130,28 @@
 							<div class="row">
 
 								<div class="col-sm-12 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/kr17.jpg">
-										<img src="img/krushnai/gallery/kr17.jpg" alt="Tunnel">
+									<a class="lightbox" href="img/krushnai/conferencehall/c1.jpg">
+										<img src="img/krushnai/conferencehall/c1.jpg" alt="Tunnel">
 									</a>
 								</div>
 								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/kr21.jpg">
-										<img src="img/krushnai/gallery/kr21.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<!-- <a class="lightbox" href="img/krushnai/gallery/27.jpg">
-										<img src="img/krushnai/gallery/27.jpg" alt="Park">
-									</a> -->
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/c1.jpg">
-										<img src="img/krushnai/gallery/c1.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/gc.jpg">
-										<img src="img/krushnai/gallery/gc.jpg" alt="Bridge">
+									<a class="lightbox" href="img/krushnai/conferencehall/c2.jpg">
+										<img src="img/krushnai/conferencehall/c2.jpg" alt="Park">
 									</a>
 								</div>
 								
-								<!-- <div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/27.jpg">
-										<img src="img/krushnai/gallery/27.jpg" alt="Park">
+								<div class="col-sm-6 col-md-4">
+									<a class="lightbox" href="img/krushnai/conferencehall/c3.jpg">
+										<img src="img/krushnai/conferencehall/c3.jpg" alt="Park">
 									</a>
 								</div>
 								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/28.jpg">
-										<img src="img/krushnai/gallery/28.jpg" alt="Park">
+									<a class="lightbox" href="img/krushnai/conferencehall/c4.jpg">
+										<img src="img/krushnai/conferencehall/c4.jpg" alt="Bridge">
 									</a>
 								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/29.jpg">
-										<img src="img/krushnai/gallery/29.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/30.jpg">
-										<img src="img/krushnai/gallery/g5.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/g5.jpg">
-										<img src="img/krushnai/gallery/30.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/31.jpg">
-										<img src="img/krushnai/gallery/31.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/32.jpg">
-										<img src="img/krushnai/gallery/32.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/33.jpg">
-										<img src="img/krushnai/gallery/33.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/34.jpg">
-										<img src="img/krushnai/gallery/34.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/35.jpg">
-										<img src="img/krushnai/gallery/35.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/36.jpg">
-										<img src="img/krushnai/gallery/36.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/37.jpg">
-										<img src="img/krushnai/gallery/37.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/38.jpg">
-										<img src="img/krushnai/gallery/38.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/39.jpg">
-										<img src="img/krushnai/gallery/39.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/40.jpg">
-										<img src="img/krushnai/gallery/40.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/41.jpg">
-										<img src="img/krushnai/gallery/41.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/42.jpg">
-										<img src="img/krushnai/gallery/42.jpg" alt="Park">
-									</a>
-								</div> -->
+								
+								
 							</div>
 						</div>
 					</div>
@@ -281,8 +167,8 @@
 									</a>
 								</div>
 								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/g11.jpg">
-										<img src="img/krushnai/gallery/g11.jpg" alt="Park">
+									<a class="lightbox" href="img/krushnai/gallery/gallery2.jpg">
+										<img src="img/krushnai/gallery/gallery2.jpg" alt="Park">
 									</a>
 								</div>
 								<div class="col-sm-6 col-md-4">
@@ -290,21 +176,7 @@
 										<img src="img/krushnai/gallery/gallery9.jpg" alt="Park">
 									</a>
 								</div>
-								<!-- <div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/r4.jpg">
-										<img src="img/krushnai/gallery/r4.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/r5.jpg">
-										<img src="img/krushnai/gallery/r5.jpg" alt="Park">
-									</a>
-								</div>
-								<div class="col-sm-6 col-md-4">
-									<a class="lightbox" href="img/krushnai/gallery/r6.jpg">
-										<img src="img/krushnai/gallery/r6.jpg" alt="Park">
-									</a>
-								</div> -->
+								
 							</div>
 						</div>
 					</div>

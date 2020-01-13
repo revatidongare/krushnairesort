@@ -14,7 +14,7 @@
 	<?php include 'inc/navbar.php'; ?>
 	<!-- ##### Header Area End ##### -->
 	<!-- ##### Breadcumb Area Start ##### -->
-	<section class="breadcumb-area bg-img d-flex align-items-center justify-content-center" style="background-image: url(img/krushnai/rooms/kbanner.jpg);">
+	<section class="breadcumb-area bg-img d-flex align-items-center justify-content-center" style="background-image: url(img/krushnai/contact1-banner-small.jpg);">
 		<div class="bradcumbContent">
 			<h2>Suite with Jacuzzi </h2>
 		</div>
